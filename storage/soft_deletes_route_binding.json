@@ -1,0 +1,14 @@
+{
+    "trashed_admin": "App\\Models\\Admin",
+    "trashed_chef": "App\\Models\\Chef",
+    "trashed_kitchen": "App\\Models\\Kitchen",
+    "trashed_customer": "App\\Models\\Customer",
+    "trashed_feedback": "App\\Models\\Feedback",
+    "trashed_category": "App\\Models\\Category",
+    "trashed_kitchen_sponsor": "App\\Models\\KitchenSponsor",
+    "trashed_City": "App\\Models\\City",
+    "trashed_coupon": "App\\Models\\Coupon",
+    "trashed_city": "App\\Models\\City",
+    "trashed_package": "App\\Models\\Package",
+    "trashed_delivery_company": "App\\Models\\DeliveryCompany"
+}

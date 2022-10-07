@@ -1,0 +1,19 @@
+[
+    "manage.chefs",
+    "manage.customers",
+    "manage.kitchens",
+    "manage.feedback",
+    "manage.settings",
+    "manage.categories",
+    "manage.kitchenSponsor",
+    "manage.kitchenDuration",
+    "manage.SponsorDurations",
+    "manage.Meals",
+    "manage.Orders",
+    "manage.Reports",
+    "manage.Wallets",
+    "manage.coupons",
+    "manage.cities",
+    "manage.packages",
+    "manage.delivery_companies"
+]
